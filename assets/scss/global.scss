@@ -1,0 +1,11 @@
+$color1: rebeccapurple;
+html {
+    font-size: 16px;
+}
+p {
+    font-size: 1rem;
+}
+* {
+    box-sizing: border-box;
+}
+@import "../../components/**/*.scss";
